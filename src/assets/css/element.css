@@ -1,0 +1,29 @@
+/*面包屑*/
+.el-breadcrumb {
+    line-height: 42px;
+}
+/*表格*/
+.el-table td, .el-table th {
+    text-align: center;
+}
+/*分页*/
+.el-pagination {
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+}
+/*登录页*/
+
+.login .el-button--primary {
+    width: 100%;
+}
+
+/*首页*/
+
+/*用户管理*/
+.userList .el-table th.is-leaf {
+    background-color: #FAFAFA;
+}
+
+
+
